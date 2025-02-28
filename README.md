@@ -11,4 +11,4 @@ Note:- Here section is defined as the span between two consecutive supports.
 
 Following are the kind of beams for which the program would be suitable:-
 
-![Kani's Method].(Kanis_method.png)
+![Kani's Method](Kanis_method.png)
